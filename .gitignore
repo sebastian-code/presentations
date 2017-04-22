@@ -1,6 +1,5 @@
 02_fuentes/
+sources/
 .ipynb_checkpoints
 reveal.js/
-zip_files
-sources/libro_auxiliar.xlsx
 env/
